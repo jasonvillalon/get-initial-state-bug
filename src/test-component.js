@@ -8,7 +8,7 @@ const TestComponent = React.createClass({
   },
   render() {
     return (
-      <div>{this.state.number}</div>
+      <div>this.state.number value is {this.state.number}</div>
     )
   }
 })

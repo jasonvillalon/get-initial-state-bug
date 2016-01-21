@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "warning in get initial state",
   "main": "index.js",
+  "repository": "https://github.com/jasonvillalon/get-initial-state-bug",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

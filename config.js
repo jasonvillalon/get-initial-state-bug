@@ -11,7 +11,7 @@ System.config({
   paths: {
     "github:*": "jspm_packages/github/*",
     "npm:*": "jspm_packages/npm/*",
-    "npm:react@0.14.6": "jspm_packages/npm/react@0.14.6/dist/react.min.js"
+    // "npm:react@0.14.6": "jspm_packages/npm/react@0.14.6/dist/react.min.js"
   },
 
   map: {
