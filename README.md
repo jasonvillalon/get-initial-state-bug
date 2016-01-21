@@ -14,6 +14,7 @@ $ gulp
 
 so what happening is, when you run it using react.js there is no warning but when you uncomment the commented code below you will receive the warning.
 
+file path: config.js
 ```
 paths: {
   "github:*": "jspm_packages/github/*",
